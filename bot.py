@@ -5,7 +5,7 @@ import traceback
 from telebot import types
 from datetime import datetime
 
-token = '1860559145:AAGQuYWntJXopyuLePGLoZ_Xr9dNI0Pf2oQ'
+token = '<BOT TOKEN>'
 bot = telebot.TeleBot(token, parse_mode=None)
 
 commands = {  # command description used in the "help" command
